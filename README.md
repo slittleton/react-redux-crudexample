@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+NOTE: Don't Forget JSON Server
+If you use this you should create a seperate folder and install json server as a fake REST API to get this to work correctly. Make sure you start up JSON server before attempting to start the app.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
